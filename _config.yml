@@ -1,0 +1,28 @@
+name: Xispoli
+favicon: null
+layout_spectrum: 0.28989109909161925
+typography_spectrum: 0.31069240043871105
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21329131699167192
+  lightness: 0.4864351546857506
+  saturation: 0.6850694315508008
+  rhythmicContrast: 0.2113164672628045
+purpose: []
