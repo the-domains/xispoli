@@ -1,6 +1,6 @@
 name: Xispoli
 favicon: null
-layout_spectrum: 0.28989109909161925
+layout_spectrum: 0.57285
 typography_spectrum: 0.58282
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.21329131699167192
+  brandStrength: 0.1875
   lightness: 0.25
-  saturation: 0.6850694315508008
+  saturation: 0.6875
   rhythmicContrast: 0.2113164672628045
 purpose: []
